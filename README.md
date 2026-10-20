@@ -15,7 +15,7 @@ A literature review by **Team 9**. We screened about 90 research papers on noise
 | Item | Description |
 |---|---|
 | [`docs/TEAM_9_Final.docx`](TEAM_9_Final.docx) | The final report: structured summaries of 10 selected papers |
-| [`data/Research_Paper_Classification.xlsx`](data/Research_Paper_Classification.xlsx) | Classification of all 94 papers screened during the research |
+| [`data/Research_Paper_Classification.xlsx`](Research_Paper_Classification.xlsx) | Classification of all 94 papers screened during the research |
 
 > The original PDFs we read are **not** included. They are copyrighted by their publishers. Titles are listed in the classification sheet so you can find each paper through its publisher, IEEE Xplore, or your library.
 
